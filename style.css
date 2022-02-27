@@ -130,12 +130,14 @@ h1 {
 h2 { 
 		font-family: 'Roboto Slab', serif;
 		font-size: 34px;
+    color: white;
 }
 
 
 h3 { 
 		font-family: 'Roboto Slab', serif;
     	font-size: 40px;
+      color: white;
 }
 
  nav {
@@ -161,8 +163,9 @@ li:hover {
 }
 
 p { 
-	font-size: 13px;
+	font-size: 40px;
 	font-family: 'Roboto Slab', serif;
+  color: white;
 }
 
 .footer {
